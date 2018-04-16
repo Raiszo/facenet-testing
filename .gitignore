@@ -1,5 +1,12 @@
+# emacs files
+*~
+\#*\#
+.\#*
+/server/
+
 # model folder :3
 pretrainned-model/
+test_images/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
